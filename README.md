@@ -30,7 +30,7 @@ A simple and visually appealing counter application built with React. Users can 
 
 ## Demo
 
-Check out the live demo of the app [here](https://<username>.github.io/Counter-App).
+Check out the live demo of the app [here](https://dveersingh000.github.io/Counter-App/).
 
 ## Features
 
@@ -40,6 +40,6 @@ Check out the live demo of the app [here](https://<username>.github.io/Counter-A
 
 ## Screenshots
 
-![Counter App Screenshot](screenshot.png)
+![Counter App Screenshot](React-App.png)
 
 
